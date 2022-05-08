@@ -1,4 +1,4 @@
-# SE-Workshop2-Task1
+# Software Engineering-Workshop2-Task1
 # Description
 The purpose of this task in workshop2 is developing a web-based machine learning system for simple text classification.
 
